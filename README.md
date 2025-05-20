@@ -42,7 +42,7 @@ Create at least once a production build (as this pulls missing files)
 yarn build
 ```
 
-## Local development
+## Local developments
 
 ```console
 yarn start
